@@ -1,0 +1,2 @@
+.table { border-radius: 8px; background: #fff; }
+.table-striped tr:nth-child(even) { background-color: #f8f8f8; }
